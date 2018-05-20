@@ -1,34 +1,19 @@
-## Intro to Code
+# Work Better With Devs
 
-You can use the [editor on GitHub](https://github.com/joewadcan/intro_to_code_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Simply put, this course helps non-technical folks work better with developers. By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The course is aimed at non-technical students** with no prior coding experience. If you're worried where to start, this is the course for you. 
 
+## Instructor: Joe Wadcan 
 
-<script src='https://js.tito.io/v1' async></script>
+:wave: Hello I'm Joe Wadcan! I've  taught this course at UC Berkeley for five years, as one of the most popular courses at the Haas School of Business. Currently I'm the co-founder of Bevy Inc. but most recently was the Head of Business Development at GitHub - the world's largest platform for software developers. Previously, I worked at Javelin Ventures and Citigroup, before having earned my MBA from Berkeley-Haas in 2012. I'm a self-taught programmer, I acutely understand the hardship, strategy, and shortcuts to coding from a beginner's mindset.
 
-<tito-widget event="ultimateconf/2013"></tito-widget>
+- :bird: [@joewadcan](https://twitter.com/joewadcan) 
+- :link: [LinkedIn](https://www.linkedin.com/in/joewadcan)
 
+### How the course works
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners.
 [Link](url) and ![Image](src)
 ```
 
