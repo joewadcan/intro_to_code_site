@@ -63,6 +63,9 @@ Students will be graded as part of taking the course. All grades are private and
 
 ## Pricing
 
+<tito-widget event="workwithdevs/summer-2018"></tito-widget>
+
+
 Admission to the course has a fixed cost of $Placeholder per student. This covers all 7 sessions. More details are located on the purchasing page [here](https://ti.to/workwithdevs/summer-2018) 
 
 - $Placeholder per student
