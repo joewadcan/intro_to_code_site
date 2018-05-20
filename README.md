@@ -14,15 +14,19 @@ Simply put, this course helps non-technical folks work better with developers. B
 ### How the course works
 
 The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners.
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Course schedule
 
-### Jekyll Themes
+- **Class 1** (Wed July 18 @ 6pm):   **Vocab** = Students learn basic developer concepts and terminology.
+- **Class 2** (Wed July 25 @ 6pm):   **CS001** = Students learn the building blocks of a coding language.
+- **Class 3** (Wed August 1 @ 6pm):  **Tools** = Students learn standard tools & platforms (Git & GitHub).
+- **Class 4** (Wed August 8 @ 6pm):  **Databases** = Students learn how data is stored and structured.
+- **Class 5** (Wed August 15 @ 6pm): **Testing** = Students learn how code is tested and deployed.
+- **Class 6** (Wed August 22 @ 6pm): **APIs** = Students learn how applications are interconnected.
+- **Class 7** (Wed August 29 @ 6pm): **Mobile** = Students learn about mobile development.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joewadcan/intro_to_code_site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Class Structure (2 hours each):
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 15 min: Go over weekly quiz results, questions from last week and session goals.
+- 90 min: Introduce the new topic for the week with in-depth Q&A.
+- 15 min: Discuss new industry trends and upcoming assignments.
