@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/joewadcan/intro_to_code_si
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<script src='https://js.tito.io/v1' async></script>
+
+<tito-widget event="ultimateconf/2013"></tito-widget>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
