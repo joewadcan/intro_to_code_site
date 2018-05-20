@@ -2,7 +2,7 @@ theme: jekyll-theme-leap-day
 title: Work Better With Devs
 description: An introduction to code, for non-technical folks.
 show_downloads: "true"
-google_analytics: 001110
+google_analytics: UA-119541113-1
 
 plugins:
   - jemoji
