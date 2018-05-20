@@ -2,9 +2,8 @@
 
 Simply put, this course helps non-technical folks work better with developers. By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
 
-```
-The course is for non-technical students with no prior coding experience. Come learn the basics!
-```
+**The course is for non-technical students with no prior coding experience. Come learn the basics with us! :tada:**
+
 ## Instructor: Joe Wadcan 
 
 :wave: Hello I'm Joe Wadcan! I've  taught this course at UC Berkeley for five years, as one of the most popular courses at the Haas School of Business. Currently I'm the co-founder of Bevy Inc. but most recently was the Head of Business Development at GitHub - the world's largest platform for software developers. Previously, I worked at Javelin Ventures and Citigroup, before having earned my MBA from Berkeley-Haas in 2012. I'm a self-taught programmer, I acutely understand the hardship, strategy, and shortcuts to coding from a beginner's mindset.
