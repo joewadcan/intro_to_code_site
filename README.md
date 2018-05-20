@@ -13,13 +13,13 @@ Simply put, this course helps non-technical folks work better with developers. B
 
 ## Course schedule
 
-- **Class 1** _(Jul 18 @ 6pm)_: **Vocab** = Students learn basic developer concepts and terminology.
-- **Class 2** _(Jul 25 @ 6pm)_: **CS001** = Students learn the building blocks of a coding language.
-- **Class 3** _(Aug 01 @ 6pm)_: **Tools** = Students learn standard tools & platforms (Git & GitHub).
-- **Class 4** _(Aug 08 @ 6pm)_: **Databases** = Students learn how data is stored and structured.
-- **Class 5** _(Aug 15 @ 6pm)_: **Testing** = Students learn how code is tested and deployed.
-- **Class 6** _(Aug 22 @ 6pm)_: **APIs** = Students learn how applications are interconnected.
-- **Class 7** _(Aug 29 @ 6pm)_: **Mobile** = Students learn about mobile development.
+- **Class 1** _(Jul 18 @ 6pm)_: **Vocab** = Learn basic developer concepts and terminology.
+- **Class 2** _(Jul 25 @ 6pm)_: **CS001** = Learn the building blocks of a coding language.
+- **Class 3** _(Aug 01 @ 6pm)_: **Tools** = Learn standard tools & platforms (Git & GitHub).
+- **Class 4** _(Aug 08 @ 6pm)_: **Databases** = Learn how data is stored and structured.
+- **Class 5** _(Aug 15 @ 6pm)_: **Testing** = Learn how code is tested and deployed.
+- **Class 6** _(Aug 22 @ 6pm)_: **APIs** = Learn how applications are interconnected.
+- **Class 7** _(Aug 29 @ 6pm)_: **Mobile** = Learn about mobile development.
 
 ## Class Format:
 
