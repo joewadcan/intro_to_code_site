@@ -28,23 +28,9 @@ Simply put, this course helps non-technical folks work better with developers. B
 - 15 min: Discuss new industry trends and upcoming assignments.
 - **2 hours total**
 
-The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners. We won't be taking a defined break, but feel free to bring dinner and take bathroom breaks as needed. 
+The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners. There is no online recording available, students are expected to come in-person to attend each class.
 
-## Testimonials
-
-> "I just joined SendGrid and am convinced that the fact that I took your coding class gave me an edge in getting this job -- so thank you!" - Matt (Fall 13)
-
-> "Loved the class! Literally everything we went over tonight was relevant for my job." - Ray (Spring 2013)
-
-> "I'm not in a technical role but super helpful base that I've used to learn more and be able to add value as a PM. All that to say, thanks for all your help!" - Eduardo (Fall 14)
-
-> "Hi Joe! I'm proud to say that the Intro the Code class has made a significant difference for me during my summer internship last year and now full-time. I'm now a Branch International, a microfinance startup - thanks so much!" 
-- Sarah (Spring 16)
-
-> "I am working over the summer as a product manager for the first time at Walmart Ecommerce and your intro to code class was everything that I needed to start with the right foot and gain respect from engineering!”  
-- Gabriela (Fall 17)
-
-> _"I'm now in my third day at Mux, and just wanted to let you know that I am soooo glad that I took your course. 😀 About 80% of my new intro to code vocab has already been mentioned or discussed! Without the course I might have been the dumbest intern ever... Thanks 😎"_ - Scarlett (Fall 2018)
+We won't be taking a defined break, but feel free to bring dinner and take bathroom breaks as needed. 
 
 ## Grading
 
@@ -60,3 +46,24 @@ Students will be graded as part of taking the course. All grades are private and
   - 4 Assignments are due throughout the course, reinforcing learning.
   - Each assignment is to be done at home.
 - **100% = Participation + Quizzes + Assignments**
+
+## Testimonials
+
+> "I just joined SendGrid and am convinced that the fact that I took your coding class gave me an edge in getting this job -- so thank you!" - Matt (Fall 13)
+
+> "Loved the class! Literally everything we went over tonight was relevant for my job." - Ray (Spring 2013)
+
+> "I'm not in a technical role but super helpful base that I've used to learn more and be able to add value as a PM. All that to say, thanks for all your help!" - Eduardo (Fall 14)
+
+> "Hi Joe! I'm proud to say that the Intro the Code class has made a significant difference for me during my summer internship last year and now full-time. I'm now a Branch International, a microfinance startup - thanks so much!" - Sarah (Spring 16)
+
+> "I am working over the summer as a product manager for the first time at Walmart Ecommerce and your intro to code class was everything that I needed to start with the right foot and gain respect from engineering!”  - Gabriela (Fall 17)
+
+> "I'm now in my third day at Mux, and just wanted to let you know that I am soooo glad that I took your course. 😀 About 80% of my new intro to code vocab has already been mentioned or discussed! Without the course I might have been the dumbest intern ever... Thanks!" - Scarlett (Fall 2018)
+
+## Pricing
+
+Admission to the course has a fixed cost of $Placeholder per student. This covers all 7 sessions. More details are located on the purchasing page [here](https://ti.to/workwithdevs/summer-2018) 
+
+- $Placeholder per student
+- Refunds 
