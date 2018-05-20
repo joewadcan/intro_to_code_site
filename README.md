@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Intro to Code
 
 You can use the [editor on GitHub](https://github.com/joewadcan/intro_to_code_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
