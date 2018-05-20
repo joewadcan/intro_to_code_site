@@ -2,8 +2,9 @@
 
 Simply put, this course helps non-technical folks work better with developers. By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
 
-**The course is aimed at non-technical students** with no prior coding experience. If you're worried where to start, this is the course for you. 
-
+```
+The course is for non-technical students with no prior coding experience. Come learn the basics!
+```
 ## Instructor: Joe Wadcan 
 
 :wave: Hello I'm Joe Wadcan! I've  taught this course at UC Berkeley for five years, as one of the most popular courses at the Haas School of Business. Currently I'm the co-founder of Bevy Inc. but most recently was the Head of Business Development at GitHub - the world's largest platform for software developers. Previously, I worked at Javelin Ventures and Citigroup, before having earned my MBA from Berkeley-Haas in 2012. I'm a self-taught programmer, I acutely understand the hardship, strategy, and shortcuts to coding from a beginner's mindset.
@@ -61,8 +62,8 @@ Students will be graded as part of taking the course. All grades are private and
 
 > "I'm now in my third day at Mux, and just wanted to let you know that I am soooo glad that I took your course. 😀 About 80% of my new intro to code vocab has already been mentioned or discussed! Without the course I might have been the dumbest intern ever... Thanks!" - Scarlett (Fall 2018)
 
-## Pricing
+## Registration
 
-Admission to the course has a fixed cost of $Placeholder per student. This covers all 7 sessions. More details are located on the purchasing page [here](https://ti.to/workwithdevs/summer-2018). 
+Register for the course for $1,200 per student. This covers all 7 sessions, and includes dinner during class. 
 
 <tito-widget event="workwithdevs/summer-2018"></tito-widget>
