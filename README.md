@@ -36,9 +36,9 @@ We won't be taking a defined break, but feel free to bring dinner and take bathr
 
 Students will be graded as part of taking the course. All grades are private and only viewable by the student, if desired. 
 
-- 42% = Participation from real-time trivia. 7 classes, 6% grade value each class.
-- 30% = Take home quizzes based on assigned readings. 6 quizzes, 5% grade value each.
-- 28% = Assignments go deeper into subject matter. 4 assignments, varying point values.
+- 42% = Participation via real-time trivia. 7 classes, 6% earned each class.
+- 30% = Take home quizzes based on readings. 6 quizzes, 5% earned each quiz.
+- 28% = Assignments show applied knowledge. 4 assignments, grade values vary.
 - **100% = Participation + Quizzes + Assignments**
 
 ## Testimonials
