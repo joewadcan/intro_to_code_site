@@ -2,7 +2,7 @@
 
 Simply put, this course helps non-technical folks work better with developers. By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
 
-**The course is for non-technical students with no prior coding experience. Come learn the basics with us! :tada:**
+:tada: **The course is for non-technical students with no prior coding experience**
 
 ## Instructor: Joe Wadcan 
 
@@ -23,10 +23,10 @@ Simply put, this course helps non-technical folks work better with developers. B
 
 ## Class Format:
 
+- **2 hours per class**
 - 15 min: Go over weekly quiz results, questions from last week and session goals.
 - 90 min: Introduce the new topic for the week with in-depth Q&A.
 - 15 min: Discuss new industry trends and upcoming assignments.
-- **2 hours total**
 
 The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners. There is no online recording available, students are expected to come in-person to attend each class.
 
@@ -36,15 +36,9 @@ We won't be taking a defined break, but feel free to bring dinner and take bathr
 
 Students will be graded as part of taking the course. All grades are private and only viewable by the student, if desired. 
 
-- 42% = Participation
-  - Real-time trivia will be held on newly learned material.
-  - 7 sessions, each earn 6% participation per class.
-- 30% = Quizzes
-  - Six quizzes, each worth 5%, are to be done weekly.
-  - Quizzes are based on class discussion and assigned readings.
-- 28% = Assignments
-  - 4 Assignments are due throughout the course, reinforcing learning.
-  - Each assignment is to be done at home.
+- 42% = Participation from real-time trivia. 7 classes, 6% grade value each class.
+- 30% = Take home quizzes based on assigned readings. 6 quizzes, 5% grade value each.
+- 28% = Assignments go deeper into subject matter. 4 assignments, varying point values.
 - **100% = Participation + Quizzes + Assignments**
 
 ## Testimonials
