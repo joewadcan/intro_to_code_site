@@ -39,9 +39,7 @@ Our course consists of 7 classes on Wednesday evenings from 6pm - 8pm. The cours
 - 90 min: Introduce the new topic for the week with in-depth Q&A.
 - 15 min: Discuss new industry trends and upcoming assignments.
 
-The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners. There is no online recording available, students are expected to come in-person to attend each class.
-
-We won't be taking a defined break, but feel free to bring dinner and take bathroom breaks as needed. 
+The course will be a mixture of in-class lectures, quizzes, readings, and online tutorials. Each session introduces a new topic, with depth added in readings and reinforced through quizzes and assignments. The material is introduced cumulatively and the pace is specifically tuned for beginners. There is no online recording available, students are expected to come in-person to attend each class. 
 
 ## Grading
 
