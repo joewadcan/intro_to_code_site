@@ -6,7 +6,7 @@ It can be tough joining a tech company and not feeling confident in your underst
 
 In this course, we cover all the basics you'll need to feel confident working with developers. You'll be taught the industry standard vocabulary, tools, and processes used by developers today. Don't worry, this is an introductory course, so we intentionally go slowly, defining the core of each concept. Most "learn to code" tutorials assume you want to be a programmer, which is a nice idea, but this course is made for folks who just want to work a bit smarter. 
 
-If you work at a large tech company or a small startup - you'll come away with a solid understanding of code and how developers work ... all while eating dinner once a week! :smile: 
+If you work at a large tech company or a small startup - you'll come away with a solid understanding of code and how developers work ... all while eating dinner once a week! :school_satchel::taco::computer::sparkles:
 
 :tada: **The course is made for non-technical students with no prior coding experience**
 
