@@ -22,7 +22,7 @@ Our course consists of 7 classes on Wednesday evenings from 6pm - 8pm. The cours
 
 :taco: We'll have dinner catered each class - ranging from tacos to pizza. You're welcome to eat during class or bring your own meal. 
 
-## Course schedule
+## Course topics
 
 - **Class 1** _(Jul 18 @ 6pm)_: **Vocab** = Learn basic developer concepts and terminology.
 - **Class 2** _(Jul 25 @ 6pm)_: **CS001** = Learn the building blocks of a coding language.
