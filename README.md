@@ -52,6 +52,8 @@ Students can choose to take the course with grades (some companies may require i
 - 28% = Assignments show applied knowledge. 4 assignments, grade values vary.
 - **100% = Participation + Quizzes + Assignments**
 
+Instead of grading, I can also provide a certificate of completion if the student attends 6 of the 7 classes. 
+
 ## Testimonials
 
 Over the 5 years I've been teaching this class, I'm proud to have heard it's made an impact on people's careers. Here's a few choice messages I've been sent by folks who've taken my course in the past:
