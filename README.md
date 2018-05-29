@@ -1,18 +1,22 @@
 # Work Better With Devs
 
-**Simply put, this course helps non-technical folks work better with developers.** 
+**Simply put, this course helps non-technical folks work better with developers and engineering teams.** 
 
-By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
+It can be tough joining a tech company and not feeling confident in your understanding of code. If you've bookmarked a dozen "learn to code" websites but just haven't been able to complete one... this is the course for you! 
 
-:tada: **The course is for non-technical students with no prior coding experience**
+In this course, we cover all the basics you'll need to feel confident working with developers. You'll be taught the industry standard vocabulary, tools, and processes used by developers today. Don't worry, this is an introductory course, so we intentionally go slowly, defining the core of each concept. Most "learn to code" tutorials assume you want to be a programmer, which is a nice idea, but this course is made for folks who just want to work a bit smarter. 
+
+If you work at a large tech company or a small startup - you'll come away with a solid understanding of code and how developers work ... all while eating dinner once a week! :smile: 
+
+:tada: **The course is made for non-technical students with no prior coding experience**
 
 ## Instructor: Joe Wadcan 
 
 ![profile image](https://user-images.githubusercontent.com/1266306/40632751-38f2cbe0-629f-11e8-8607-dd4af1944482.png)
 
-:wave: Hello I'm Joe Wadcan! I've  taught this course at UC Berkeley for five years, as one of the most popular courses at the Haas School of Business. Currently I'm the co-founder of Bevy Inc. but most recently was the Head of Business Development at GitHub - the world's largest platform for software developers. Previously, I worked at Javelin Ventures and Citigroup, before having earned my MBA from Berkeley-Haas in 2012. I'm a self-taught programmer, I acutely understand the hardship, strategy, and shortcuts to coding from a beginner's mindset.
+:wave: Hello I'm Joe Wadcan! I've taught this course at UC Berkeley for five years, and it's one of the most popular courses at the Haas School of Business. I'm a self taught programmer, so I definitely know the struggle of learning to code from a non-technical point of view. Previously, I was the Head of Business Development at GitHub - the world's largest platform for software developers. And before that worked at Javelin Ventures, Citigroup, and a number of small startups. 
 
-:globe_with_meridians: Find me on [Twitter](https://twitter.com/joewadcan) & [LinkedIn](https://www.linkedin.com/in/joewadcan) or email directly at workwithdevs@gmail.com :email:
+Reach out to me on [Twitter](https://twitter.com/joewadcan), [LinkedIn](https://www.linkedin.com/in/joewadcan) or email at workwithdevs@gmail.com
 
 ## Logistics & Food
 
