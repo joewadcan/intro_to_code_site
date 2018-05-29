@@ -1,6 +1,8 @@
 # Work Better With Devs
 
-Simply put, this course helps non-technical folks work better with developers. By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
+**Simply put, this course helps non-technical folks work better with developers.** 
+
+By learning how programmers work, you will get a real tangible understanding of code and the realities of the software industry. Students are taught industry standard vocabulary, tools, and processes used by developers today. This is an introductory course, so we focus on breadth instead of depth. This allows us to cover more topics and a foundation for learning the topics critical to a career in technology.
 
 :tada: **The course is for non-technical students with no prior coding experience**
 
@@ -12,11 +14,13 @@ Simply put, this course helps non-technical folks work better with developers. B
 
 :globe_with_meridians: [Twitter: @joewadcan](https://twitter.com/joewadcan) & [LinkedIn](https://www.linkedin.com/in/joewadcan)
 
-## Logistics
+## Logistics & Food
 
 Our course consists of 7 classes on Wednesday evenings from 6pm - 8pm. The course begins July 18th through August 29th. We'll be meeting in the SOMA district of SF, near multiple BART and MUNI stops. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.3349035200476!2d-122.40885138497453!3d37.7821904797581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580869d1dffa7%3A0xeb7777b1023af21e!2s901+Mission+St%2C+San+Francisco%2C+CA+94103!5e0!3m2!1sen!2sus!4v1527554421824" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+We'll have dinner catered each class - ranging from tacos to pizza. You're welcome to eat during class or bring your own meal. 
 
 ## Course schedule
 
@@ -41,7 +45,7 @@ We won't be taking a defined break, but feel free to bring dinner and take bathr
 
 ## Grading
 
-Students will be graded as part of taking the course. All grades are private and only viewable by the student, if desired. 
+Students can choose to take the course with grades (some companies may require it). If you opt-in to grading, here is the basis for your grade:
 
 - 42% = Participation via real-time trivia. 7 classes, 6% earned each class.
 - 30% = Take home quizzes based on readings. 6 quizzes, 5% earned each quiz.
@@ -49,6 +53,8 @@ Students will be graded as part of taking the course. All grades are private and
 - **100% = Participation + Quizzes + Assignments**
 
 ## Testimonials
+
+Over the 5 years I've been teaching this class, I'm proud to have heard it's made an impact on people's careers. Here's a few choice messages I've been sent by folks who've taken my course in the past:
 
 > "I just joined SendGrid and am convinced that the fact that I took your coding class gave me an edge in getting this job -- so thank you!" - Matt (Fall 13)
 
@@ -64,6 +70,6 @@ Students will be graded as part of taking the course. All grades are private and
 
 ## Registration
 
-Register for the course for $1,200 per student. This covers all 7 sessions, and includes dinner during class. 
+Registration for the course is $1,200 per student (under early registration). After June 16th, prices increase to $1,500 per student. The registration fee covers all 7 sessions and includes catered dinner during class. _As a reminder, this registration fee is non-refundable, but you may transfer the ticket prior to the start of the course_. 
 
 <tito-widget event="workwithdevs/summer-2018"></tito-widget>
