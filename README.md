@@ -6,12 +6,16 @@ Simply put, this course helps non-technical folks work better with developers. B
 
 ## Instructor: Joe Wadcan 
 
-![profile image](https://github.com/joewadcan/work_with_devs/blob/master/_assets/website_profile.png)
+![profile image](https://workwithdevs.com/_assets/website_profile.png)
 
 :wave: Hello I'm Joe Wadcan! I've  taught this course at UC Berkeley for five years, as one of the most popular courses at the Haas School of Business. Currently I'm the co-founder of Bevy Inc. but most recently was the Head of Business Development at GitHub - the world's largest platform for software developers. Previously, I worked at Javelin Ventures and Citigroup, before having earned my MBA from Berkeley-Haas in 2012. I'm a self-taught programmer, I acutely understand the hardship, strategy, and shortcuts to coding from a beginner's mindset.
 
 - :bird: [@joewadcan](https://twitter.com/joewadcan) 
 - :link: [LinkedIn](https://www.linkedin.com/in/joewadcan)
+
+## Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.3349035200476!2d-122.40885138497453!3d37.7821904797581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580869d1dffa7%3A0xeb7777b1023af21e!2s901+Mission+St%2C+San+Francisco%2C+CA+94103!5e0!3m2!1sen!2sus!4v1527554421824" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Course schedule
 
